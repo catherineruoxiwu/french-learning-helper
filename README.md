@@ -1,5 +1,5 @@
 # french-learning-helper
-scripts & tools that help me learn Français!
+scripts, tools & resources that help me learn Français!
 
 TODO: 
 - update README
