@@ -1,2 +1,5 @@
 # french-learning-helper
-Python scripts that help me learn Français!
+scripts & tools that help me learn Français!
+
+TODO: 
+- update README
